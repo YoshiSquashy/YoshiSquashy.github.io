@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I love cake!
+I love cake and cookies!
 
 ### More Information
 
