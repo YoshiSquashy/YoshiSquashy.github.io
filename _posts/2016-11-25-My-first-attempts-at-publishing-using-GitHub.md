@@ -8,8 +8,10 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title:  </td>
-    <td>My first attempts at publishing using Github </td>
+    <td>| Title: | </td>
+    <td> ---------------------------------------------
+    <td>| My first attempts at publishing using Github |</td>
+    <td> ---------------------------------------------
     <td> Date:  </td>
     <td>25/11/16</td>
   </tr>
