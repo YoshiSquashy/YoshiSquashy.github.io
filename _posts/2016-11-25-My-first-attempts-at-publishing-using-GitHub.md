@@ -18,8 +18,8 @@ published: true
 
 <table>
   <tr>
-    <td>|Starting point:|</td>
-    <td>|I had no knowledge|</td>
+    <td>Starting point:</td>
+    <td>I had no knowledge</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
