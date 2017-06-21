@@ -1,5 +1,5 @@
 ---
-title: Github week 4
+title: Github week 3
 layout: post
 author: joshy.vaughan
 permalink: /github-week-3/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title:  </td>
-    <td>My fourth week at using Github </td>
+    <td>My third week at using Github </td>
     <td> Date:  </td>
-    <td>28/06/17</td>
+    <td>21/06/17</td>
   </tr>
 </table>
 
