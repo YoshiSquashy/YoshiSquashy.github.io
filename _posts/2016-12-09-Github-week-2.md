@@ -11,7 +11,7 @@ published: true
     <td>Title:  </td>
     <td>My second week at using Github </td>
     <td> Date:  </td>
-    <td>9/12/16</td>
+    <td>14/06/17</td>
   </tr>
 </table>
 
