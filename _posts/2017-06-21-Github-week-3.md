@@ -22,17 +22,13 @@ published: true
     <td>I knew a lot about the site by this point</td>
   </tr>
   <tr>
-    <td>
-Target</td>
-    <td>
-To make my documents look better</td>
+    <td>Target</td>
+    <td>To make a table around my writing</td>
   </tr>
   <tr>
-    <td>
-Did I reach my target? 
+    <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>
-Yes I did</td>
+    <td>No I didn't</td>
   </tr>
 </table>
 
@@ -42,26 +38,22 @@ Yes I did</td>
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <td>
-How did I learn? What strategies were effective? </td>
+    <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>
-I simply had to add extra spaces in my document</td>
+    <td>I looked around the code for something that might have been useful</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>
-My impatience limited my learning, but I am learning to get over it</td>
+    <td>My impatience limited my learning, and doesn't really help</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td> 
-Next time, I will improve by being more patient, because I will get more out of the lesson</td>
+    <td> Next time, I will improve by being more patient, because I will get more out of the lesson</td>
   </tr>
 </table>
 
