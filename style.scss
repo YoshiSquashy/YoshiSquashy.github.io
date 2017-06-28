@@ -116,6 +116,8 @@ strong, b {
 
 img {
   max-width: 100%;
+opacity: 0.2;
+    filter: alpha(opacity=20); /* For IE8 and earlier */
 }
 
 // Fixes images in popup boxes from Google Translate
